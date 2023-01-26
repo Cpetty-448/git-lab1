@@ -78,7 +78,6 @@ Answer 12.  yes they were reflected
 
 Answer 13.  .  ..  .git  .gitignore  README.md
 
-Answer 14.
 
 
 
